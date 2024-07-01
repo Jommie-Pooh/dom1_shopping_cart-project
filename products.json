@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name": "LOO1 LOUNGE CHAIR",
+        "price" : 200,
+        "image": "lib/images/1.png"
+    },
+    {
+        "id":2,
+        "name": "LOO2 LOUNGE CHAIR",
+        "price" : 200,
+        "image": "lib/images/2.png"
+    },
+    {
+        "id":3,
+        "name": "LOO3 LOUNGE CHAIR",
+        "price" : 200,
+        "image": "lib/images/3.png"
+    },
+    {
+        "id":4,
+        "name": "LOO4 LOUNGE CHAIR",
+        "price" : 200,
+        "image": "lib/images/4.png"
+    },
+    {
+        "id":5,
+        "name": "LOO5 LOUNGE CHAIR",
+        "price" : 200,
+        "image": "lib/images/5.png"
+    },
+    {
+        "id":6,
+        "name": "LOO6 LOUNGE CHAIR",
+        "price" : 200,
+        "image": "lib/images/6.png"
+    },
+    {
+        "id":7,
+        "name": "LOO7 LOUNGE CHAIR",
+        "price" : 800,
+        "image": "lib/images/7.png"
+    },
+    {
+        "id":8,
+        "name": "LOO8 LOUNGE CHAIR",
+        "price" : 900,
+        "image": "lib/images/8.png"
+    }
+]
